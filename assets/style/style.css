@@ -52,7 +52,6 @@ a {
 .col-2 {
     flex-basis: 50%;
     min-width: 300px;
-    color: brown;
 }
 
 .col-2 img {
