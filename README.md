@@ -4,3 +4,4 @@
 ![login](https://github.com/Anca192/proiect-final-website/assets/139279921/17a21941-f8f0-4f84-97f0-5427538f530e)
 ![register](https://github.com/Anca192/proiect-final-website/assets/139279921/1fdf2184-a19a-4f92-afe9-596215a85bf3)
 ![about](https://github.com/Anca192/proiect-final-website/assets/139279921/d745e47e-e6bb-4408-bfd4-bc6f8cda5ccf)
+![cart](https://github.com/Anca192/proiect-final-website/assets/139279921/78cfdb4c-933f-4cd0-be7e-feb896586bdd)
